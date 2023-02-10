@@ -17,6 +17,11 @@ body:
     label: Describe the solution to the problem
     description: Provide a clear and concise description of what you want to happen to solve the problem.
 - type: textarea
+  id: usecases
+  attributes:
+    label: Describe the uses cases for the feature
+    description: Provide a clear and concise description of the use cases the feature unlocks.
+- type: textarea
   id: details
   attributes:
     label: Additional details
