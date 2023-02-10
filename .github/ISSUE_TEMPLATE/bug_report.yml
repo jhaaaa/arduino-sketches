@@ -16,19 +16,13 @@ body:
   attributes:
     label: Describe the bug
     description: Provide a clear and concise description of the issue. Attach screenshots, if applicable.
-  validations:
-    required: true
 - type: textarea
   id: expected-behavior
   attributes:
     label: Expected behavior
     description: Provide a clear and concise description of the behavior you expected. Attach screenshots, if applicable.
-  validations:
-    required: true
 - type: textarea
   id: reproduce
   attributes:
     label: Steps to reproduce the bug
     description: Provide a clear and concise description of how to reproduce the bug, including any relevant environment details such as browser, OS, and device.
-  validations:
-    required: true
