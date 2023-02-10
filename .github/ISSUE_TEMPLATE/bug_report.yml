@@ -1,11 +1,11 @@
 name: Bug Report
 description: Report a bug to help us improve
-title: "[Bug]: "
+title: "Bug: "
 labels: bug
 body:
 - type: markdown
   attributes:
-    label: Thank you for taking the time to report a bug. Community contributions like yours are key to the development and adoption of XMTP. Review the following guidelines for reporting a bug:
+    label: Thank you for taking the time to report a bug. Community contributions like yours are key to the development and adoption of XMTP. Review the following guidelines for reporting a bug.
     options:
     - label: Include **1 bug per issue**. Do not report multiple bugs in 1 issue. Creating 1 issue per bug will make it easier to assign and track progress on bugs. 
     - label: Search for [existing issues](https://github.com/xmtp/xmtp-dot-org/issues) first
