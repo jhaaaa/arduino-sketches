@@ -1,0 +1,34 @@
+name: Bug Report
+description: Report a bug to help us improve
+title: "[Bug]: "
+labels: bug
+body:
+- type: markdown
+  attributes:
+    label: Thank you for taking the time to report a bug. Community contributions like yours are key to the development and adoption of XMTP. Review the following guidelines for reporting a bug:
+    options:
+    - label: Include **1 bug per issue**. Do not report multiple bugs in 1 issue. Creating 1 issue per bug will make it easier to assign and track progress on bugs. 
+    - label: Search for [existing issues](https://github.com/xmtp/xmtp-dot-org/issues) first
+    - label: Adhere to the [XMTP code of conduct](https://xmtp.org/community/code-of-conduct)
+    - label: Ensure that the bug is not security-related and can safely be disclosed publicly on GitHub
+- type: textarea
+  id: bug-description
+  attributes:
+    label: Describe the bug
+    description: Provide a clear and concise description of the issue. Attach screenshots, if applicable.
+  validations:
+    required: true
+- type: textarea
+  id: expected-behavior
+  attributes:
+    label: Expected behavior
+    description: Provide a clear and concise description of what you expected instead.
+  validations:
+    required: true
+- type: textarea
+  id: reproduce
+  attributes:
+    label: Steps to reproduce the issue
+    description: Provide a clear and concise description of how to reproduce the issue, including any relevant environment details such as browser, OS, and device info.
+  validations:
+    required: true
