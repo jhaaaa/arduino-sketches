@@ -1,5 +1,5 @@
 name: Report a bug
-description: Report a bug to help improve XMTP.
+description: Report a bug to surface an issue you're experiencing.
 title: "Bug: "
 labels: bug
 body:
