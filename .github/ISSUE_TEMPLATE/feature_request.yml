@@ -5,7 +5,7 @@ labels: enhancement
 body:
 - type: markdown
   attributes:
-    label: Thank you for taking the time to request a feature. Community contributions like yours are key to the development and adoption of XMTP.
+    value: Thank you for taking the time to request a feature. Community contributions like yours are key to the development and adoption of XMTP.
 - type: textarea
   id: problem-description
   attributes:
