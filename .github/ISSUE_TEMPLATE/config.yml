@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: XMTP Q&A forum
+    url: https://github.com/orgs/xmtp/discussions/categories/q-a
+    about: Have questions about how to build with XMTP? Ask them in the XMTP Q&A discusion forum.
