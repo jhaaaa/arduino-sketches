@@ -10,7 +10,7 @@ body:
         - Include 1 bug per issue. Do not report multiple bugs in 1 issue. Creating 1 issue per bug will make it easier to assign and track progress on bugs. 
         - Search for [existing issues](https://github.com/xmtp/xmtp-dot-org/issues) first
         - Adhere to the [XMTP code of conduct](https://xmtp.org/community/code-of-conduct)
-        - Ensure that the bug is not security-related and can safely be disclosed publicly on GitHub. To report a security issue, see [Security policy](/jhaaaa/arduino-sketches/security).
+        - Ensure that the bug is not security-related and can safely be disclosed publicly on GitHub. To report a security issue, see [Security policy](https://github.com/jhaaaa/arduino-sketches/security/policy).
 - type: textarea
   id: bug-description
   attributes:
