@@ -5,7 +5,12 @@ labels: enhancement
 body:
 - type: markdown
   attributes:
-    value: Thank you for taking the time to request a feature. Community contributions like yours are key to the development and adoption of XMTP.
+    value: |
+      Thank you for taking the time to request a feature. Community contributions like yours are key to the development and adoption of XMTP. Review the following guidelines for requesting a feature:
+        - Include 1 feature request per issue. Creating 1 issue per request will make it easier to explore and prioritize a request.
+        - Check [existing issues](https://github.com/xmtp/xmtp-dot-org/issues) to see if the feature has already been requested.
+        - Ensure that the feature is not security-related and can safely be disclosed publicly on GitHub. For information about how to report a security issue, see [Security policy](https://github.com/jhaaaa/arduino-sketches/security/policy).
+        - Follow the [XMTP code of conduct](https://xmtp.org/community/code-of-conduct).
 - type: textarea
   id: problem-description
   attributes:
